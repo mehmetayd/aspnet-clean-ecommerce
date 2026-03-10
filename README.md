@@ -1,5 +1,5 @@
 ASP.NET | Clean Architecture | CQRS | DDD | PostgreSQL
-Status: In Development
+* Status: In Development
 
 # 🧀  E-Commerce Backend
 
@@ -83,3 +83,15 @@ Database: **PostgreSQL**
 * Automation workflows with **n8n**
 * Redis caching
 * Docker containerization
+
+---
+
+## Project Roadmap
+
+- [x] Project initialization
+- [x] Architecture planning
+- [ ] Database implementation
+- [ ] Product module
+- [ ] Cart module
+- [ ] Order module
+- [ ] Payment integration
